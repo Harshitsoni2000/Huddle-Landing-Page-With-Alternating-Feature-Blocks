@@ -26,7 +26,6 @@ Users should be able to:
 ### Screenshot
 
 ![Laptop-View](ss/laptop-view.png)
-![Mobile-View](ss/Mobile-view.png)
 
 ### Links
 
