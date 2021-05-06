@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/Harshitsoni2000/Social-Proof-Section)
-- [Live Site URL](https://harshitsoni2000.github.io/Social-Proof-Section/)
+- [Solution URL](https://github.com/Harshitsoni2000/Huddle-Landing-Page-With-Alternating-Feature-Blocks)
+- [Live Site URL](https://harshitsoni2000.github.io/Huddle-Landing-Page-With-Alternating-Feature-Blocks/)
 
 ## My process
 
@@ -46,7 +46,7 @@ Users should be able to:
 
 ### Continued development
 
-Will Continue practicing more CSS webpage challenges. 
+Will Continue practicing more CSS webpage challenges.
 
 ## Author
 
