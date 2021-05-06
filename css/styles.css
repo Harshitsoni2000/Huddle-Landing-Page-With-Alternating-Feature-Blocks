@@ -27,7 +27,7 @@ header {
 header img {
   height: 100%;
   width: 40%;
-  max-height: 2.4375rem;
+  height: 2.4375rem;
   max-width: 15rem;
 }
 
@@ -128,8 +128,8 @@ footer {
   grid-row-gap: 1.25rem;
   place-items: center;
   padding: 2rem 0;
-  width: 34.375rem;
-  max-width: 90vw;
+  width: 33rem;
+  max-width: 95vw;
   position: absolute;
   left: 0;
   right: 0;
@@ -215,7 +215,7 @@ ul a:hover {color: #fff;}
     height: 3rem;
   }
 
-  h1,h2,h3 {line-height: 4rem;}
+  h1,h3 {line-height: 4rem;}
 
   h1 {font-size: 3rem;}
   h2 {font-size: 2.5rem;}
